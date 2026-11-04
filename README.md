@@ -1,4 +1,13 @@
-# Repo Bootstrap
+# Project Initial Builder
+
+프로젝트 협업 설정과 스킬 선택을 위한 작은 스킬 모음입니다. 각 스킬은 독립적으로 사용할 수 있습니다.
+
+| 스킬 | 역할 | 사용 안내 |
+|---|---|---|
+| [repo-bootstrap](skills/repo-bootstrap/SKILL.md) | 협업 규칙·PR 양식 준비, 공통 AI 지침 연결과 설정 점검 | 아래 안내 |
+| [project-skills](skills/project-skills/SKILL.md) | 프로젝트 스킬 목록 관리, 작업별 추천과 인식 상태 점검 | [설치·사용 흐름](docs/project-skills-usage.md) |
+
+아래 내용은 repo-bootstrap의 사용 안내입니다. project-skills의 관리 대상 목록은 별도 요청 시 대상 프로젝트에 만들며, 이 저장소의 사용 설명서를 목록으로 취급하지 않습니다.
 
 기존 파일을 보존하면서 협업 규칙과 PR 양식을 준비하고, Codex·Claude Code의 공통 프로젝트 지침을 연결하는 최소 스킬입니다.
 
